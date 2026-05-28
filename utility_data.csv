@@ -1,0 +1,9 @@
+meter_id,billing_start,billing_end,electricity_kwh,tariff
+MTR100,2026-05-01,2026-05-31,1200,Commercial
+MTR101,2026-05-01,2026-05-31,950,Industrial
+MTR102,2026-05-01,2026-05-31,1500,Commercial
+UNKNOWN,2026-05-01,2026-05-31,800,Commercial
+MTR104,2026-05-01,2026-05-31,-500,Industrial
+MTR105,2026-05-01,2026-05-31,1100,Commercial
+MTR106,2026-05-01,2026-05-31,980,Residential
+MTR107,2026-05-01,2026-05-31,1300,Commercial

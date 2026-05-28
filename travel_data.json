@@ -1,0 +1,22 @@
+[
+  {
+    "employee": "John Doe",
+    "flight_type": "Domestic Flight",
+    "distance_km": 1200
+  },
+  {
+    "employee": "Sarah Lee",
+    "flight_type": "International Flight",
+    "distance_km": 8500
+  },
+  {
+    "employee": "Mike Ross",
+    "flight_type": "Domestic Flight",
+    "distance_km": -400
+  },
+  {
+    "employee": "UNKNOWN",
+    "flight_type": "Domestic Flight",
+    "distance_km": 600
+  }
+]

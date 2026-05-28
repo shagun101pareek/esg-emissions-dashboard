@@ -1,0 +1,9 @@
+document_id,plant_code,material_name,quantity,unit,vendor_name,posting_date,currency,amount
+SAP1001,PLT100,Diesel Fuel,1000,L,Indian Oil Corp,2026-05-01,INR,92000
+SAP1002,PLT100,Petrol,500,liters,BPCL,01/05/2026,INR,51000
+SAP1003,PLT200,Natural Gas,1.2,KL,Reliance Energy,2026/05/03,INR,68000
+SAP1004,PLT300,Lubricant Oil,250,Litres,Shell India,05-04-2026,INR,24000
+SAP1005,PLT200,Diesel Fuel,950,L,Indian Oil Corp,2026-05-05,INR,88000
+SAP1006,PLT999,Petrol,-50,L,HPCL,2026-05-06,INR,0
+SAP1007,UNKNOWN,Diesel Fuel,1200,gallon,BPCL,2026-05-07,INR,105000
+SAP1008,PLT100,Furnace Oil,2000,ltr,Nayara Energy,2026-05-08,INR,175000
