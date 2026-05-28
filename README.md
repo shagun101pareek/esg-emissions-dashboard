@@ -15,6 +15,15 @@ The system currently supports:
 All incoming records are converted into a common emissions format so they can be reviewed consistently by analysts.
 
 ---
+## Live Deployment
+
+Frontend Dashboard:
+https://esg-emissions-dashboard-eta.vercel.app/
+
+Backend API:
+https://esg-emissions-dashboard-43in.onrender.com/api/emissions/
+
+---
 
 ## Features
 
