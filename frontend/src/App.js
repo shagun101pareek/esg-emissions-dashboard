@@ -7,7 +7,7 @@ function App() {
 
   useEffect(() => {
 
-    fetch('http://127.0.0.1:8000/api/emissions/')
+    fetch('https://esg-emissions-dashboard-43in.onrender.com/api/emissions/')
       .then(response => response.json())
       .then(data => {
         setRecords(data);
@@ -56,7 +56,7 @@ function App() {
 const approveRecord = (id) => {
 
   fetch(
-    `http://127.0.0.1:8000/api/emissions/${id}/approve/`,
+    `https://esg-emissions-dashboard-43in.onrender.com/api/emissions/${id}/approve/`,
     {
       method: 'POST'
     }
@@ -71,7 +71,7 @@ const approveRecord = (id) => {
 const rejectRecord = (id) => {
 
   fetch(
-    `http://127.0.0.1:8000/api/emissions/${id}/reject/`,
+    `https://esg-emissions-dashboard-43in.onrender.com/api/emissions/${id}/reject/`,
     {
       method: 'POST'
     }
