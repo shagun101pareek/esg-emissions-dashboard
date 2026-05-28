@@ -1,0 +1,7 @@
+venv/
+node_modules/
+db.sqlite3
+**pycache**/
+media/
+.env
+.DS_Store
